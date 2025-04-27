@@ -19,6 +19,9 @@ It allows you to create, save, edit, analyze, and organize your notes with ease!
   ⏰ Real-time Timestamp — Displays date and time of note creation.
 
   🔥 Cool, Responsive UI — Designed for a modern, clean experience.
+  ![demo](https://github.com/user-attachments/assets/3f8f230b-868c-453d-9920-8cef0700553e)
+  ![demo 2](https://github.com/user-attachments/assets/bb91b6e5-598a-4b11-a708-caad11e8a08f)
+
 
 📁 Folder Structure
   plaintext
